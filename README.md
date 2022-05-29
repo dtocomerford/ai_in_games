@@ -2,7 +2,7 @@
 
 CONTROLS
 - Direction arrows for movement 
-- 'R' key to respawn (note that the satte machine will break if player respawns into the game, enemies will only choose random paths)
+- 'R' key to respawn (note that the state machine will break if player respawns into the game, enemies will only choose random paths)
 
 
 BUILD INSTRUCTIONS
